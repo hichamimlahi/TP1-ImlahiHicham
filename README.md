@@ -35,7 +35,7 @@ Le dossier du projet a été créé localement, suivi de l'initialisation de Git
 ![Liaison au dépôt distant](./captures/Screenshot 2026-03-26 202936.png)
 *Ajout du dépôt distant GitHub (origin).*
 
-![Push de la branche main](./captures/Screenshot 2026-03-26%212023.png)
+![Push de la branche main](./captures/Screenshot 2026-03-26 212023.png)
 *Envoi de la branche principale `main` vers GitHub.*
 
 ---
@@ -76,4 +76,4 @@ Le travail sur la branche `dev` étant terminé, une Pull Request a été ouvert
 *Confirmation que la Pull Request a été fusionnée et fermée avec succès.*
 
 ---
-**Conclusion :** L'ensemble du processus de versioning et de collaboration via Git/GitHub a été respecté et validé.
+**Conclusion :** L'ensemble du processus de versioning et de collaboration via Git/GitHub a été respecté et validé
